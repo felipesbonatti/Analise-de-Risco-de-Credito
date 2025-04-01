@@ -125,5 +125,3 @@ if not all(field in data for field in REQUIRED_FIELDS):
 
 
 [🐛 Reportar issue](https://github.com/felipesbonatti/Analise-de-Risco-de-Credito/issues)
-```
-
